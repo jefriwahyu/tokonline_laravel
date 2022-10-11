@@ -15,3 +15,25 @@
 - Berisikan alamat lengkap toko, kontak, google maps, sosial media, dan form untuk mengisikan feedback kepada pemilik toko online.
 
 ![contact](https://user-images.githubusercontent.com/92837751/194980802-8f6e0301-2e9b-4792-8ea3-c0fba9a65e8e.jpg)
+
+## Pemesanan Barang
+
+- Untuk memesan barang user harus mengklik button <b><i>"Add to Chart"</i></b>, setelah itu akan muncul popup untuk mengisi jumlah barang yang akan dipesan.
+
+![pesan barang](https://user-images.githubusercontent.com/92837751/194980820-7e377c97-cb53-4185-a086-4c42dc87153d.jpg)
+
+## Halaman Chart
+
+- Halaman keranjang kondisi user belum login.
+
+![keranjang - belum login](https://user-images.githubusercontent.com/92837751/194980810-1311b0f2-d6f5-4f04-b5e7-659f3c2543e6.jpg)
+
+- Halaman keranjang kondisi user sudah login dan belum memesan barang.
+
+![keranjang - belum pesan barang](https://user-images.githubusercontent.com/92837751/194980812-c4e2bbc4-51e7-403f-874f-ea6220b4935e.jpg)
+
+- Halaman keranjang kondisi user sudah memesan barang, barang yang dipesan akan tersimpan di dalam halaman keranjang.
+
+![keranjang - ada barang](https://user-images.githubusercontent.com/92837751/194980809-0d02b6d3-64c5-4956-b0e5-134483f0f4cb.jpg)
+
+
