@@ -38,8 +38,14 @@
 
 ## Halaman Checkout
 
-- Untuk melanjutakn proses pemesan, user harus menyelesaikan proses checkout pesan barang.
+- Di halaman checkout akan menampilkan barang yang dipesan, total yang harus dibayar, id token untuk konfirmasi pemesanan, dan button <b><i>"Copy"</i></b> untuk menyalin kode id token.
 
 ![checkout - ada barang](https://user-images.githubusercontent.com/92837751/194980795-a6c451dd-7787-4303-8130-990b8d9621e4.jpg)
+
+## Halaman Confirm
+
+- Untuk melanjutkan pemesanan, user harus mengkonfirmasi barang yang dia pesan dengan mengisi form id token yang di dapat di halaman checkout dan mengupload bukti pembayaran.
+
+![bukti tf - tersimpan](https://user-images.githubusercontent.com/92837751/194980794-a57a292e-4000-41e6-b8af-c81dd2e0a28d.jpg)
 
 
