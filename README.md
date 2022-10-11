@@ -46,6 +46,10 @@
 
 - Untuk melanjutkan pemesanan, user harus mengkonfirmasi barang yang dia pesan dengan mengisi form id token yang di dapat di halaman checkout dan mengupload bukti pembayaran.
 
+![confirm](https://user-images.githubusercontent.com/92837751/194980800-4df1392f-29ae-43eb-be7b-3bb10ef5424b.jpg)
+
+- Dan file bukti pembayaran yang di upload akan tersimpan di dalam folder penyimpanan.
+
 ![bukti tf - tersimpan](https://user-images.githubusercontent.com/92837751/194980794-a57a292e-4000-41e6-b8af-c81dd2e0a28d.jpg)
 
 
