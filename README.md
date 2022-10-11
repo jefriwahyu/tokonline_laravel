@@ -36,4 +36,10 @@
 
 ![keranjang - ada barang](https://user-images.githubusercontent.com/92837751/194980809-0d02b6d3-64c5-4956-b0e5-134483f0f4cb.jpg)
 
+## Halaman Checkout
+
+- Untuk melanjutakn proses pemesan, user harus menyelesaikan proses checkout pesan barang.
+
+![checkout - ada barang](https://user-images.githubusercontent.com/92837751/194980795-a6c451dd-7787-4303-8130-990b8d9621e4.jpg)
+
 
