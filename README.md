@@ -10,11 +10,11 @@
 
 ![home login](https://user-images.githubusercontent.com/92837751/194980806-e06d6edd-cf78-4eb0-be37-2041ef21ab77.jpg)
 
-## Halaman Contact
+## Halaman Login dan Register
 
-- Berisikan alamat lengkap toko, kontak, google maps, sosial media, dan form untuk mengisikan feedback kepada pemilik toko online.
+- Halaman untuk user login dan jika belum memiliki akun, user juga bisa register di halaman ini.
 
-![contact](https://user-images.githubusercontent.com/92837751/194980802-8f6e0301-2e9b-4792-8ea3-c0fba9a65e8e.jpg)
+![login dan register](https://user-images.githubusercontent.com/92837751/194980818-93249d33-0584-4b2a-89e7-2081d40d29e5.jpg)
 
 ## Pemesanan Barang
 
@@ -51,5 +51,11 @@
 - Dan file bukti pembayaran yang di upload akan tersimpan di dalam folder penyimpanan.
 
 ![bukti tf - tersimpan](https://user-images.githubusercontent.com/92837751/194980794-a57a292e-4000-41e6-b8af-c81dd2e0a28d.jpg)
+
+## Halaman Contact
+
+- Berisikan alamat lengkap toko, kontak, google maps, sosial media, dan form untuk mengisikan feedback kepada pemilik toko online.
+
+![contact](https://user-images.githubusercontent.com/92837751/194980802-8f6e0301-2e9b-4792-8ea3-c0fba9a65e8e.jpg)
 
 
