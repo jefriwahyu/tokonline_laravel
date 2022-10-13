@@ -28,11 +28,11 @@
 
 ![keranjang - belum login](https://user-images.githubusercontent.com/92837751/194980810-1311b0f2-d6f5-4f04-b5e7-659f3c2543e6.jpg)
 
-- Halaman keranjang kondisi user sudah login dan belum memesan barang.
+- Halaman keranjang kondisi user sudah login tapi belum memesan barang.
 
 ![keranjang - belum pesan barang](https://user-images.githubusercontent.com/92837751/194980812-c4e2bbc4-51e7-403f-874f-ea6220b4935e.jpg)
 
-- Halaman keranjang kondisi user sudah memesan barang, barang yang dipesan akan tersimpan di dalam halaman keranjang.
+- Halaman keranjang kondisi user sudah memesan barang, barang yang dipesan akan ditampilkan di halaman keranjang.
 
 ![keranjang - ada barang](https://user-images.githubusercontent.com/92837751/194980809-0d02b6d3-64c5-4956-b0e5-134483f0f4cb.jpg)
 
